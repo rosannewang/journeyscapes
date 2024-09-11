@@ -9,7 +9,7 @@ Depending on what you are making, it can be a good idea to include screenshots o
 
 
 ## Authors
-Created by Madison Sellers, Katherine P., Leanne Hou, and Rosanne Wang
+Created by Madison Sellers, Katherine Pereira Gamez, Leanne Hou, and Rosanne Wang
 
 ## License
 For open source projects, say how it is licensed.
